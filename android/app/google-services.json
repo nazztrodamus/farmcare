@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "57272273829",
+    "project_id": "farmcarebackend",
+    "storage_bucket": "farmcarebackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57272273829:android:ac5f880451cf029941b64c",
+        "android_client_info": {
+          "package_name": "com.farmcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57272273829-l7v72vaopqbgkl04rmhdm0tdive1p3p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmcare",
+            "certificate_hash": "74ac3a0883a32df1cd2d234f1cbdce4fa4811832"
+          }
+        },
+        {
+          "client_id": "57272273829-p0vqkjolga8631uotfjkie069hhj8cp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNO_msKMPdW06Qu1EDDzarUwIdlKkFDBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57272273829-p0vqkjolga8631uotfjkie069hhj8cp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57272273829-mjfpk4ccdnpn5n23js8uamp45g5t4lq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
